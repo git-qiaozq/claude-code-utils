@@ -1,6 +1,6 @@
 [submodule "claude-code-image-paste-wsl"]
 	path = claude-code-image-paste-wsl
-	url = https://github.com/melon-hub/claude-code-image-paste-wsl.git
+	url = https://github.com/git-qiaozq/claude-code-image-paste-wsl.git
 [submodule "claude-image-paste"]
 	path = claude-image-paste
 	url = https://github.com/aggroot/claude-image-paste.git
